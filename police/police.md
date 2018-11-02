@@ -1,6 +1,6 @@
 ### Call The Police
 ---
-You have called the police but have not service.
+You try to call the police but there is no service.
 
-[Start a investigation]()  
-[Leave and avoide getting involved]()
+[Start a investigation](investigation.md)  
+[Leave and avoid getting involved](../leave/leave.md)
