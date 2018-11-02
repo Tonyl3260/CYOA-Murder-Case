@@ -9,3 +9,4 @@ prank and continued partying. A few minute went by and some people suggest to ca
 you going to do?  
 
 [Pretend nothing happened and keep partying](pretend/pretend.md)
+
