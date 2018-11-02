@@ -9,5 +9,5 @@ prank and continued partying. A few minute went by and some people suggest to ca
 you going to do?  
 
 [Pretend nothing happened and keep partying](pretend/pretend.md)  
-[Leave the party and go home](leave/leave.md)
+[Leave the party and go home](leave/leave.md)  
 [Call the police](police/police.md)
