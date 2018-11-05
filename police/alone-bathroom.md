@@ -5,3 +5,6 @@ You know you are a fast runner, and an alpha so you decide to enter the bathroom
 
 [Restart](../home.md)  
 ![RIP](../picture/rip.png)
+<p align="center">
+  <img src="rip.png"/>
+</p>
