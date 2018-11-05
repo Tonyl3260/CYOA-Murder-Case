@@ -4,4 +4,4 @@ You know you are a fast runner, and an alpha so you decide to enter the bathroom
 **The murder was doing his business and you intruded him, you were killed on the spot.**
 
 [Restart](../home.md)  
-[RIP](../picture/rip.png)
+![RIP](../picture/rip.png)
