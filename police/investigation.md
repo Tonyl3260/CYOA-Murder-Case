@@ -8,5 +8,5 @@ shown as a [beta](https://www.urbandictionary.com/define.php?term=beta).
 [Enter bathroom as a group](group-bathroom.md)  
 
 <p align="center">
-<a href='https://www.kisspng.com/png-detective-cartoon-private-investigator-clip-art-in-881896/'/></a>
+<a href='https://www.kisspng.com/png-detective-cartoon-private-investigator-clip-art-in-881896/'><img width='150' src='https://www.kisspng.com/png-detective-cartoon-private-investigator-clip-art-in-881896'/></a>
 </p>
