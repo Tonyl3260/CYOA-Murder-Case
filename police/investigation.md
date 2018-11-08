@@ -1,8 +1,8 @@
 ### Investigation
 ---
-You decide to start an investigation and was told that there were clues in the bathroom. However, you think this might just be a prank but still scared. You can show 
-your friends how [alpha](https://www.urbandictionary.com/define.php?term=alpha) you are by entering the bathroom alone or could ask people to enter with you and be
-shown as a [beta](https://www.urbandictionary.com/define.php?term=beta).  
+You decide to start an investigation and was told that there were clues in the bathroom. However, you think this might just be a prank. You can show 
+your friends how [alpha](https://www.urbandictionary.com/define.php?term=alpha) you are by entering the bathroom alone and showing them it's just a silly prank
+and there really is no hints or you could ask aaround for people to enter with you and beshown as a [beta](https://www.urbandictionary.com/define.php?term=beta) around your friends.  
 
 [Enter bathroom alone](alone-bathroom.md)  
 [Enter bathroom as a group](group-bathroom.md)  
