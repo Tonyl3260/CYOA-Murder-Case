@@ -6,5 +6,8 @@ You know you are a fast runner, and an alpha so you decide to enter the bathroom
 [Restart](../home.md)  
 
 <p align="center">
-<a href='https://mbtskoudsalg.com/image/gravestone-clipart-png/669061.html'><img width='150' src='https://mbtskoudsalg.com/images/gravestone-clipart-png-6.png'/></a>
+<a href= ><img width='150' src='https://mbtskoudsalg.com/images/gravestone-clipart-png-6.png'/></a>
 </p>
+<h6 align='center'>
+    <a href='https://mbtskoudsalg.com/image/gravestone-clipart-png/669061.html'>Picture credit</a>
+</h6>
