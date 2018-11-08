@@ -7,7 +7,7 @@ However you found no hints, instead you were forced to smell someone's unflushed
 [Feeling sick and disgusted, you just want to go home](../leave/leave.md)
 
 <p align="center">
-<a href='https://i.ytimg.com/vi/_bfhn9kL7gw/maxresdefault.jpg'><img width='200' src='https://i.ytimg.com/vi/_bfhn9kL7gw/maxresdefault.jpg'/></a>
+<a href=><img width='200' src='https://i.ytimg.com/vi/_bfhn9kL7gw/maxresdefault.jpg'/></a>
 </p>
 
 <h6 align='center'>

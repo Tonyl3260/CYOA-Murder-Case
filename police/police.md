@@ -5,3 +5,10 @@ for solving this mystery but at the same time you think this might be like some 
 
 [Start a investigation](investigation.md)  
 [Leave and avoid getting involved](../leave/leave.md)
+
+<p align="center">
+<a href=><img width='300' src='https://iphone7userguide.com/wp-content/uploads/2016/11/no_service_iPhone_7.jpg'/></a>
+</p>
+<h6 align='center'>
+    <a href='https://iphone7userguide.com/wp-content/uploads/2016/11/no_service_iPhone_7.jpg'>Picture credit</a>
+</h6>

@@ -4,4 +4,11 @@ You have just found a note and gather all your friends th fond out who Justin Da
 
 **The Murderer Dropped a Bomb Killing eveyone**  
 
-[Restart](../home.md)
+[Restart](../home.md)  
+
+<p align="center">
+<a href=><img width='300' src='https://i.ytimg.com/vi/FbAYl1xUF6w/maxresdefault.jpg'/></a>
+</p>
+<h6 align='center'>
+    <a href='https://i.ytimg.com/vi/FbAYl1xUF6w/maxresdefault.jpg'>Picture credit</a>
+</h6>
